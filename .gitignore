@@ -1,0 +1,6 @@
+# Project exclude paths
+/Dubbo/001-link-userservice-provider/target/
+/Dubbo/002-link-consumer/target/
+/Dubbo/003-link-interface/target/
+/Dubbo/004-userservice-provider/target/
+/Dubbo/005-link-consumer/target/

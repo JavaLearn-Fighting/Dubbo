@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Dubbo/001-link-userservice-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/001-link-userservice-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/002-link-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/002-link-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/003-link-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/003-link-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/004-userservice-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/004-userservice-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/005-link-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/005-link-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/006-zk-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/006-zk-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/007-zk-userservice-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/007-zk-userservice-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/008-zk-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/008-zk-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

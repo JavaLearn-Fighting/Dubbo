@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/001-link-userservice-provider/001-link-userservice-provider.iml" filepath="$PROJECT_DIR$/Dubbo/001-link-userservice-provider/001-link-userservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/002-link-consumer/002-link-consumer.iml" filepath="$PROJECT_DIR$/Dubbo/002-link-consumer/002-link-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/003-link-interface/003-link-interface.iml" filepath="$PROJECT_DIR$/Dubbo/003-link-interface/003-link-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/004-userservice-provider/004-userservice-provider.iml" filepath="$PROJECT_DIR$/Dubbo/004-userservice-provider/004-userservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/005-link-consumer/005-link-consumer.iml" filepath="$PROJECT_DIR$/Dubbo/005-link-consumer/005-link-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/006-zk-interface/006-zk-interface.iml" filepath="$PROJECT_DIR$/Dubbo/006-zk-interface/006-zk-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/007-zk-userservice-provider/007-zk-userservice-provider.iml" filepath="$PROJECT_DIR$/Dubbo/007-zk-userservice-provider/007-zk-userservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/008-zk-consumer/008-zk-consumer.iml" filepath="$PROJECT_DIR$/Dubbo/008-zk-consumer/008-zk-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/Dubbo.iml" filepath="$PROJECT_DIR$/Dubbo/Dubbo.iml" />
+    </modules>
+  </component>
+</project>
