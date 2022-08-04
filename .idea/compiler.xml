@@ -9,8 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="004-userservice-provider" />
         <module name="008-zk-consumer" />
+        <module name="009-zk-userservice-multi-provider" />
         <module name="005-link-consumer" />
         <module name="007-zk-userservice-provider" />
+        <module name="010-zk-multi-consumer" />
         <module name="006-zk-interface" />
         <module name="002-link-consumer" />
         <module name="001-link-userservice-provider" />
@@ -26,6 +28,8 @@
       <module name="006-zk-interface" target="1.8" />
       <module name="007-zk-userservice-provider" target="1.8" />
       <module name="008-zk-consumer" target="1.8" />
+      <module name="009-zk-userservice-multi-provider" target="1.8" />
+      <module name="010-zk-multi-consumer" target="1.8" />
       <module name="Dubbo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

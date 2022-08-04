@@ -17,6 +17,10 @@
     <file url="file://$PROJECT_DIR$/Dubbo/007-zk-userservice-provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Dubbo/008-zk-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Dubbo/008-zk-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/009-zk-userservice-multi-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/009-zk-userservice-multi-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/010-zk-multi-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo/010-zk-multi-consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Dubbo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Dubbo/src/main/resources" charset="UTF-8" />
   </component>
